@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eaac86-1e30-4802-a012-f7de3899e4c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0.tools/1.getHelp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.base/0.base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0.tools/1.getHelp.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/magic.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.tools/2.magic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/theZenOfPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.tools/0.theZenOfPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.tools/0.theZenOfPython.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.base/0.base.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.base/0.base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -152,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583396212198</updated>
       <workItem from="1583396230601" duration="4174000" />
-      <workItem from="1583478812225" duration="774000" />
+      <workItem from="1583478812225" duration="2868000" />
     </task>
     <servers />
   </component>
@@ -173,7 +172,7 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/note_python$0_base.coverage" NAME="0.base Coverage Results" MODIFIED="1583479261256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.base" />
+    <SUITE FILE_PATH="coverage/note_python$0_base.coverage" NAME="0.base Coverage Results" MODIFIED="1583480914248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.base" />
     <SUITE FILE_PATH="coverage/note_python$theZenOfPython.coverage" NAME="theZenOfPython Coverage Results" MODIFIED="1583396357769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/note_python$magic.coverage" NAME="magic Coverage Results" MODIFIED="1583396449930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
     <SUITE FILE_PATH="coverage/note_python$getHelp.coverage" NAME="getHelp Coverage Results" MODIFIED="1583397731369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
