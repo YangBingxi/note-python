@@ -4,3 +4,7 @@
 # %touch magic
 # %lsmagic
 # ...
+
+# or you can add !before command to run system command.
+# like this:
+# !ping baidu.com
