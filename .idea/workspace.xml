@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eaac86-1e30-4802-a012-f7de3899e4c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.base/Numbers.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.tools/2.magic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0.tools/2.magic.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,7 +151,7 @@
       <updated>1583396212198</updated>
       <workItem from="1583396230601" duration="4174000" />
       <workItem from="1583478812225" duration="4250000" />
-      <workItem from="1583550480842" duration="1256000" />
+      <workItem from="1583550480842" duration="3160000" />
     </task>
     <servers />
   </component>
