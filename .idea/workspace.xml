@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eaac86-1e30-4802-a012-f7de3899e4c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.base/3.index and  split.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.base/4.List.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.tools/1.getHelp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0.tools/1.getHelp.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.base/2.String.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.base/2.String.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +156,7 @@
       <updated>1583396212198</updated>
       <workItem from="1583396230601" duration="4174000" />
       <workItem from="1583478812225" duration="4250000" />
-      <workItem from="1583550480842" duration="7287000" />
+      <workItem from="1583550480842" duration="8932000" />
     </task>
     <servers />
   </component>
