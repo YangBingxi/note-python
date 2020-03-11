@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eaac86-1e30-4802-a012-f7de3899e4c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.base/12.Modules and packages.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.base/13.Exception.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.base/15.File Option.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,6 +10,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="note-python" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -157,7 +159,7 @@
       <updated>1583396212198</updated>
       <workItem from="1583396230601" duration="4174000" />
       <workItem from="1583478812225" duration="4250000" />
-      <workItem from="1583550480842" duration="17772000" />
+      <workItem from="1583550480842" duration="21049000" />
     </task>
     <servers />
   </component>
