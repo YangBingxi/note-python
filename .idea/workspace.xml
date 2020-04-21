@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eaac86-1e30-4802-a012-f7de3899e4c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.python-advance/8.Genrator.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.python-advance/9.with.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +30,8 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -160,7 +161,13 @@
       <workItem from="1583396230601" duration="4174000" />
       <workItem from="1583478812225" duration="4250000" />
       <workItem from="1583550480842" duration="31148000" />
-      <workItem from="1584176444214" duration="2932000" />
+      <workItem from="1584176444214" duration="3068000" />
+      <workItem from="1584232768597" duration="4026000" />
+      <workItem from="1584365557615" duration="524000" />
+      <workItem from="1584449702843" duration="3797000" />
+      <workItem from="1585136743671" duration="15000" />
+      <workItem from="1586424603481" duration="16000" />
+      <workItem from="1587454673701" duration="1025000" />
     </task>
     <servers />
   </component>
